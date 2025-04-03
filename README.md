@@ -8,4 +8,10 @@ Features:
 
 # How to Use:
 Install dependencies:
-``` pip install click requests beautifulsoup4 ```
+```
+pip install click requests beautifulsoup4
+```
+
+# Requirements:
+* Python 3.x
+* Libraries: click, requests, beautifulsoup4
