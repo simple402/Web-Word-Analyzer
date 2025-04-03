@@ -14,7 +14,7 @@ pip install requests
 pip install beautifulsoup4
 ```
 Run the script:
-python word_extractor.py
+python3 word_extractor.py
 
 # Requirements:
 * Python 3.x
