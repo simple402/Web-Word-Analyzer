@@ -6,3 +6,6 @@ Features:
 * Command-Line Interface: Provides a simple CLI using click for easy input of URL and word length parameters.
 * Top Words Display: Outputs the top 10 most frequent words in descending order.
 
+# How to Use:
+Install dependencies:
+``` pip install click requests beautifulsoup4 ```
