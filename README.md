@@ -1,5 +1,7 @@
 # Word Frequency Analyzer
 
+This Python project combines web scraping and text analysis to extract and analyze word frequencies from any webpage. Using the requests library for HTTP requests, BeautifulSoup for HTML parsing, and click for command-line interaction, the script identifies the most frequently occurring words on a webpage based on user-defined minimum word length.
+
 Features:
 * Web Scraping: Extracts all text content from a given URL using requests and BeautifulSoup.
 * Word Frequency Analysis: Counts occurrences of words while filtering by user-specified minimum length.
