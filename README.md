@@ -20,9 +20,9 @@ Run the script:
 python3 word_extractor.py
 ```
 Flags:
-```
-python3 word_extractor.py --url https://google.com
-```
+* --url https://google.com
+* --help
+
 Example:
 ```
 python3 word_extractor.py
