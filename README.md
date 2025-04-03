@@ -8,6 +8,10 @@ This Python project combines web scraping and text analysis to extract and analy
 * Command-Line Interface: Provides a simple CLI using click for easy input of URL and word length parameters.
 * Top Words Display: Outputs the top 10 most frequent words in descending order.
 
+# Requirements:
+* Python 3.x
+* Libraries: click, requests, beautifulsoup4
+
 # How to Use:
 Install dependencies:
 ```
@@ -40,7 +44,3 @@ Web URL:  https://google.com
 ('More', 1)
 ('Web', 1)
 ```
-
-# Requirements:
-* Python 3.x
-* Libraries: click, requests, beautifulsoup4
