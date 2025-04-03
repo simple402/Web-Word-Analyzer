@@ -20,8 +20,10 @@ pip install requests
 pip install beautifulsoup4
 ```
 Clone the repository:
-git clone https://github.com/yourusername/bind-shell-server.git
-cd bind-shell-server
+```
+git clone https://github.com/simple402/Web-Word-Analyzer.git
+cd Web-Word-Analyzer
+```
 Run the script:
 ```
 python3 word_extractor.py
