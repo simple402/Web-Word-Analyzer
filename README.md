@@ -23,6 +23,7 @@ Example:
 ```
 python3 word_extractor.py
 ```
+```
 Web URL:  https://google.com
 ('GoogleSearch', 1)
 ('Images', 1)
@@ -34,6 +35,7 @@ Web URL:  https://google.com
 ('Drive', 1)
 ('More', 1)
 ('Web', 1)
+```
 
 # Requirements:
 * Python 3.x
