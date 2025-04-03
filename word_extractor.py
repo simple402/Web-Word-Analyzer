@@ -36,7 +36,7 @@ def get_top_words_from(all_words, min_length):
     return sorted(occurrences.items(), key=lambda item: item[1], reverse=True)
 
 @click.command()
-@click.option('--url', '-u', prompt='Web URL', help='URL of webpage to extract from.')
+@click.option('--url', '-u', prompt='Enter Web URL', help='URL of webpage to extract from.')
 @click.option('--length', '-l', default=0, help='Minimum word length (default: 0, no limit).')
 def main(url, length):
     the_words = get_all_words_from(url)
