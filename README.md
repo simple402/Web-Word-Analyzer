@@ -19,6 +19,9 @@ pip install click
 pip install requests
 pip install beautifulsoup4
 ```
+Clone the repository:
+git clone https://github.com/yourusername/bind-shell-server.git
+cd bind-shell-server
 Run the script:
 ```
 python3 word_extractor.py
