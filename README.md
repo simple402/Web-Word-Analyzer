@@ -9,8 +9,12 @@ Features:
 # How to Use:
 Install dependencies:
 ```
-pip install click requests beautifulsoup4
+pip install click 
+pip install requests
+pip install beautifulsoup4
 ```
+Run the script:
+python word_extractor.py
 
 # Requirements:
 * Python 3.x
